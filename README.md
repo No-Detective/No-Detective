@@ -3,7 +3,7 @@
 **Data scientist** working where statistics meets engineering. I care less about benchmark scores and more about whether a model holds up as a decision: class imbalance, delayed and noisy labels, confounding, drift, and the auditor who eventually asks *why*.
 
 - 🎓 M.S. Data Science at **Worcester Polytechnic Institute**
-- 🏥 Currently building healthcare data pipelines: eligibility ingestion, probabilistic record matching, privacy-preserving reporting
+- 🏥 Software Developer Intern at **Bolster Rx**, building healthcare data pipelines: eligibility ingestion, probabilistic record matching, privacy-preserving reporting
 - 🔬 Previously: crypto-to-equity sentiment research at WPI, ML internship at Avnir, production computer vision at Isourse
 - 📫 Reach me at **ananyashukla2512@gmail.com**
 
